@@ -2067,7 +2067,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These cuffs are a little too tight!"
+      "Eng": "These cuffs are a little too tight!",
+      "Rus": "Эти наручники слишком тесные!"
     }
   },
   {
@@ -2078,7 +2079,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These cuffs are too tight - they are going to leave dents!"
+      "Eng": "These cuffs are too tight - they are going to leave dents!",
+      "Rus": "Эти наручники слишком тугие - они оставляют следы!"
     }
   },
   {
@@ -2089,7 +2091,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These handcuffs are such crude devices. How humiliating..."
+      "Eng": "These handcuffs are such crude devices. How humiliating...",
+      "Rus": "Эти наручники такое примитивное устройства. Как унизительно ..."
     }
   },
   {
@@ -2100,7 +2103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These handcuffs aren't my size! You should probably take them off me."
+      "Eng": "These handcuffs aren't my size! You should probably take them off me.",
+      "Rus": "Эти наручники не моего размера! Ты, наверно, должны снять их со меня."
     }
   },
   {
@@ -2111,7 +2115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These handcuffs cannot hold me!"
+      "Eng": "These handcuffs cannot hold me!",
+      "Rus": "Эти наручники не смогут удержать меня!"
     }
   },
   {
@@ -2122,7 +2127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "They sent a Floran after me? How embarassing!"
+      "Eng": "They sent a Floran after me? How embarassing!",
+      "Rus": "Они послали Флоран за мной? Как неловко!"
     }
   },
   {
@@ -2133,7 +2139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ape WILL escape!"
+      "Eng": "This ape WILL escape!",
+      "Rus": ""
     }
   },
   {
@@ -2144,7 +2151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This is NOT how I wanted this day to go."
+      "Eng": "This is NOT how I wanted this day to go.",
+      "Rus": ""
     }
   },
   {
@@ -2155,7 +2163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This is mighty embarassin'..."
+      "Eng": "This is mighty embarassin'...",
+      "Rus": ""
     }
   },
   {
@@ -2166,7 +2175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This is what you get for messing with the ^orange;<gangName>^reset;!"
+      "Eng": "This is what you get for messing with the ^orange;<gangName>^reset;!",
+      "Rus": ""
     }
   },
   {
@@ -2177,7 +2187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This isn't your fight, Floran! Leave whilst you still can!"
+      "Eng": "This isn't your fight, Floran! Leave whilst you still can!",
+      "Rus": ""
     }
   },
   {
@@ -2188,7 +2199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This operation was a failure..."
+      "Eng": "This operation was a failure...",
+      "Rus": ""
     }
   },
   {
@@ -2199,7 +2211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Urgh, I've been bested!"
+      "Eng": "Urgh, I've been bested!",
+      "Rus": ""
     }
   },
   {
@@ -2210,7 +2223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Urgh, how could I be defeated like this?"
+      "Eng": "Urgh, how could I be defeated like this?",
+      "Rus": ""
     }
   },
   {
@@ -2221,7 +2235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Urgh..."
+      "Eng": "Urgh...",
+      "Rus": ""
     }
   },
   {
@@ -2232,7 +2247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Very well..."
+      "Eng": "Very well...",
+      "Rus": "Отлично..."
     }
   },
   {
@@ -2243,7 +2259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We'll meet again, Peacekeeper!"
+      "Eng": "We'll meet again, Peacekeeper!",
+      "Rus": ""
     }
   },
   {
@@ -2254,7 +2271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We're the ^orange;<gangName>^reset; - you ain't gonna stop us that easily!"
+      "Eng": "We're the ^orange;<gangName>^reset; - you ain't gonna stop us that easily!",
+      "Rus": ""
     }
   },
   {
@@ -2268,7 +2286,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We're the ^orange;<gangName>^reset; - you can't stop us that easily!"
+      "Eng": "We're the ^orange;<gangName>^reset; - you can't stop us that easily!",
+      "Rus": ""
     }
   },
   {
@@ -2279,7 +2298,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well, at least I put up a good fight!"
+      "Eng": "Well, at least I put up a good fight!",
+      "Rus": ""
     }
   },
   {
@@ -2290,7 +2310,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well, this is unfortunate."
+      "Eng": "Well, this is unfortunate.",
+      "Rus": ""
     }
   },
   {
@@ -2301,7 +2322,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Whatever they're paying you, I'll pay double! Just get these things off me, okay?!"
+      "Eng": "Whatever they're paying you, I'll pay double! Just get these things off me, okay?!",
+      "Rus": ""
     }
   },
   {
@@ -2312,7 +2334,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Where in tarnation did that Peacekeeper go?"
+      "Eng": "Where in tarnation did that Peacekeeper go?",
+      "Rus": ""
     }
   },
   {
@@ -2323,7 +2346,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why are you arresting me? What is the charge, huh?!"
+      "Eng": "Why are you arresting me? What is the charge, huh?!",
+      "Rus": ""
     }
   },
   {
@@ -2334,7 +2358,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wow, you actually got me. I shouldn't have underestimated you, huh?"
+      "Eng": "Wow, you actually got me. I shouldn't have underestimated you, huh?",
+      "Rus": ""
     }
   },
   {
